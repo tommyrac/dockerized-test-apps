@@ -1,3 +1,7 @@
+Requirements  
+- Java JDK 17+, due to the use of Spring Boot 3; Java 8+ otherwise
+- Gradle
+
 Run the app with the following commands:
 
 ```gradle assemble```  
